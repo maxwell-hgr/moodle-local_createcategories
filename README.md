@@ -1,6 +1,6 @@
 # CEAD - Moodle Plugin: Local CREATECATEGORIES
 ## Descrição
-Esse plugin cria a estrutura de categorias necessária para gerenciamente de cursos por parte da equipe de TI.
+Esse plugin cria a estrutura de categorias necessária para gerenciamento de cursos por parte da equipe de TI.
 **Todos os semestres um membro da equipe deve revisar o JSON e gerar a estrutura para que os cursos sejam gerenciados da melhor forma.**
 
 ## Instalação
